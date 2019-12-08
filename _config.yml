@@ -1,11 +1,11 @@
 # Site settings
 author: Logan Smith
-title: 
+title: Logan Smith's Blog Posts
 header-img: img/home-bg.png
 email: logsmith06@gmail.com
 copyright_name: Logan Smith
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Blogs about my coding projects.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  logansmith6
