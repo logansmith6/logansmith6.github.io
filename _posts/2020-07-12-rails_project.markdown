@@ -12,7 +12,7 @@ Today's blog will cover my latest  project in the Flatiron Curriculum. My projec
 **Art Catalogue - Brainstorming**
 The idea for my project was easy to find. My grandfather was an artist and after he passed, my family was left with a huge collection of paintings. My parents have since decorated their house with his work, but I have given them mutiple reminders to make digital copies of each painting, for safekeeping. Recently, I reminded them of this again and an idea came to me:  an online application that can be used to digitize artwork! Essentialy, it could be an online photo vault for paintings. After more pondering, I decided that it would be interesting to add different elements of social media to my app.
 
-![](https://imgur.com/M57VL4n)
+![](https://i.imgur.com/ZIvagSs.png)
 
 
 With these models, I was finally able to see my application's potential. A user would sign in, browse and like paintings, and then post one of their own. 
