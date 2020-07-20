@@ -5,6 +5,7 @@ date:       2020-07-12 04:43:41 -0400
 permalink:  rails_project
 ---
 
+![](https://i.imgur.com/wonwbOw.png)
 
 Today's blog will cover my latest  project in the Flatiron Curriculum. My project, named Art Catalogue, was built using the Ruby on Rails framework and I constructed it using a variety of Rails concepts. Moving on from my Sinatra project, I could see that Sinatra and Rails are comparable in a lot of ways. After I finished my Sinatra project and began working with rails, I saw that we would still be using routes, mvc, and activerecord. This made me wonder if there was any reason to use Rails instead of Sinatra. However, as I continued to work through the Rails material, it became clear to me that if Sinatra was a screwdriver, then Rails would be a tool shed. Rails may be more complicated, but this complexity can be used to create complex web applications.
 
