@@ -20,8 +20,10 @@ Today's blog will cover my latest  project in the Flatiron Curriculum. My projec
 ****
 
 **Problems**
+
+   Problems?  Um.... Yes. All jokes aside, I considered them to be more like puzzles than problems. With Javascript, testing and debugging is so extremely convenient that it almost felt like going through the tests of a Flatiron lab. That being said, there were some "puzzles" that took up entire afternoons of my time. For instance, getting my classes to correlate based on their relationship (has many/ belongs to) was an extreme thorn in my keyboard. I spent far too much time trying stuff out in my frontend. If I had just taken a moment to think logically, "Okay, so the relationship stems from the backend, not the frontend," then I would have saved hours! All I had to do was pass the appropriate info through a patch-fetch and my user model was properly updated with it's newly associated game. After that time, though, undoing the major amount of changes that I made as an attempt to solve my initial problem turned out to be a problem of its own. But hey, it wouldn't be a true coding experience if you didn't try over a thousand incorrect remedies for a simple issue. 
  
-     Problems?  Um.... Yes. All jokes aside, I considered them to be more like puzzles than problems. With Javascript, testing and debugging is so extremely convenient that it almost felt like going through the tests of a Flatiron lab. That being said, there were some "puzzles" that took up entire afternoons of my time. For instance, getting my classes to correlate based on their relationship (has many/ belongs to) was an extreme thorn in my keyboard. I spent far too much time trying stuff out in my frontend. If I had just taken a moment to think logically, "Okay, so the relationship stems from the backend, not the frontend," then I would have saved hours! All I had to do was pass the appropriate info through a patch-fetch and my user model was properly updated with it's newly associated game. After that time, though, undoing the major amount of changes that I made as an attempt to solve my initial problem turned out to be a problem of its own. But hey, it wouldn't be a true coding experience if you didn't try over a thousand incorrect remedies for a simple issue. 
+     
 
    
  
