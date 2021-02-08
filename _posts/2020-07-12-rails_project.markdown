@@ -30,7 +30,10 @@ Today's blog will cover my latest  project in the Flatiron Curriculum. My projec
 
 
 **Conclusion**
-    The process of building my application taught me a lot about the relationship between the frontend and backend, and I cannot wait to try some of the other APIs that I've read about. The Rails API, however, was a great starting point because of the deep understanding aquired through the previous semester. Now that I have finished this project, I am overly excited to get my hands on some new material.  I am proud of my work and excited for the feedback that will come very soon. I am sure that there are certain elements within my project that could be improved and it will be very constructive for it to reach a new set of eyes.
+
+   The process of building my application taught me a lot about the relationship between the frontend and backend, and I cannot wait to try some of the other APIs that I've read about. The Rails API, however, was a great starting point because of the deep understanding aquired through the previous semester. Now that I have finished this project, I am overly excited to get my hands on some new material.  I am proud of my work and excited for the feedback that will come very soon. I am sure that there are certain elements within my project that could be improved and it will be very constructive for it to reach a new set of eyes.
+
+    
    
 	  
 
